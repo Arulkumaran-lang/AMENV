@@ -41240,7 +41240,7 @@ q=3
 l=$.fm().b
 l===$&&A.a()
 s=6
-return A.o(A.a4q(l.gfR(),B.lU,"http://localhost:49803"),$async$xM)
+return A.o(A.a4q(l.gfR(),B.lU,"https://arulkumaran-lang.github.io/AMENV/"),$async$xM)
 case 6:o.push(5)
 s=4
 break
